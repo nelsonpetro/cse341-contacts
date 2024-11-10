@@ -1,0 +1,15 @@
+#### Local tests
+
+### Get all contacts 
+GET http://localhost:3000/users
+
+### Get contact by IDs
+GET http://localhost:3000/users/672fed40e3c03da66a7b1754
+
+### Render Tests
+
+### Get all contacts 
+GET https://cse341-contacts-xi94.onrender.com/users
+
+### Get contact by IDs
+GET https://cse341-contacts-xi94.onrender.com/users/672fed40e3c03da66a7b1754
