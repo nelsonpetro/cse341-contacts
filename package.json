@@ -1,0 +1,25 @@
+{
+  "name": "cse341-contacts",
+  "version": "1.0.0",
+  "description": "Contacts projects for cse-341 class at BYU-I",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonpetro/cse341-contacts.git"
+  },
+  "author": "Nelson Petro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonpetro/cse341-contacts/issues"
+  },
+  "homepage": "https://github.com/nelsonpetro/cse341-contacts#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
+  }
+}
