@@ -5,7 +5,7 @@
     "description": "Contacts API - Week 2 Activity",
     "version": "1.0.0"
   },
-  "host": "cse341-contacts-xi94.onrender.com/",
+  "host": "cse341-contacts-xi94.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
